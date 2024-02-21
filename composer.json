@@ -1,5 +1,6 @@
 {
     "name": "csimo/sim-cookie-consent",
+    "version": "1.0.0",
     "description": "Cookie consent package",
     "type": "library",
     "license": "proprietary",
