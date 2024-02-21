@@ -4,6 +4,7 @@
     "description": "Cookie consent package",
     "type": "library",
     "license": "proprietary",
+    "minimum-stability": "dev",
     "authors": [
         {
             "name": "Jean Claude Simo",
