@@ -2,7 +2,7 @@
     "name": "csimo/sim-cookie-consent",
     "description": "Cookie consent package",
     "type": "library",
-    "license": "MIT",
+    "license": "proprietary",
     "authors": [
         {
             "name": "Jean Claude Simo",
@@ -15,5 +15,7 @@
             "SimCookieConsent\\": "src/SimCookieConsent/"
         }
     },
-    "require": {}
+    "require": {
+        "php": ">=7.4"
+    }
 }
