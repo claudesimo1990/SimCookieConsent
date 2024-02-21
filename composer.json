@@ -1,19 +1,21 @@
 {
     "name": "csimo/sim-cookie-consent",
+    "version": "1.0.0",
     "description": "Cookie consent package",
     "type": "library",
-    "license": "MIT",
+    "license": "proprietary",
     "authors": [
         {
             "name": "Jean Claude Simo",
             "email": "jeanclaude.simo@gmx.de"
         }
     ],
-    "minimum-stability": "dev",
     "autoload": {
         "psr-4": {
             "SimCookieConsent\\": "src/SimCookieConsent/"
         }
     },
-    "require": {}
+    "require": {
+        "php": ">=7.4"
+    }
 }
