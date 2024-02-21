@@ -10,7 +10,6 @@
             "email": "jeanclaude.simo@gmx.de"
         }
     ],
-    "minimum-stability": "dev",
     "autoload": {
         "psr-4": {
             "SimCookieConsent\\": "src/SimCookieConsent/"
