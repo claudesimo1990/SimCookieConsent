@@ -4,8 +4,6 @@ namespace SimCookieConsent;
 
 use Symfony\Component\Yaml\Yaml;
 
-define('ROOT_PATH', dirname(__DIR__) . 'CookieConsent.php/');
-
 class SimCookieConsent
 {
     private string $configPath;
